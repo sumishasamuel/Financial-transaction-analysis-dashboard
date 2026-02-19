@@ -1,7 +1,7 @@
 # Financial-transaction-analysis-dashboard
 Developed a Power BI dashboard for analyzing a large set of financial transactions and drawing useful insights from them.
 # Problem statement
-Since large number of transactions occur in a day, it is difficult to analyze the data and create useful insights from them. The aim is to analyze the tranasaction based on the amount, finding the Month-over-month percentage, classifying the data based on card type and geographical conditions. 
+Since large number of transactions occur in a day, it is difficult to analyze the data and create useful insights from them. The aim is to analyze the transaction based on the amount, finding the Month-over-month percentage, classifying the data based on card type and geographical conditions. 
 # My approach
 1. Data extraction with Excel, Power BI
    * Used a dataset which is in the form of Excel and loaded the dataset into Power BI.
