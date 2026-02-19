@@ -9,10 +9,10 @@ Since large number of transactions occur in a day, it is difficult to analyze th
    * Used Power BI to create a dash board and view the visuals so that insights can be easily drawn.
 # Dataset Information
 * Source: Used Kaggle-Financial Transactions Dataset: Analytics(https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
-# Key insights and features
-* Time-series analysis: Implemented Month-over-month(MoM) growth tracking which can be used for identifying seasonal spending trends.
-* Geographic segmenation: Used spatial visualization for finding top spending markets
-* Credit Insights: Analyzed credit limit distribution by card type(Debit Vs Credit) to understand liquidity and risk exposure.
+# How to view
+1. Download the financialdataanalysis1.pbit file from this repo
+2. Connect it to the kaggle Dataset(https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
+3. Hit refresh to populte the visuals.
 # Techncial skills
 * DAX: Created DAX expressions for finding MoM growth trends, total spending.
 * Data Modelling: Created a star Schema relationship between transaction data and Date table for accurate reporting.
